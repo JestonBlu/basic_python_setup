@@ -5,6 +5,7 @@
 # Activate virtual environment
 source .venv/bin/activate
 
+
 # Install packages
 pip install package_name
 pip install -r requirements.txt
